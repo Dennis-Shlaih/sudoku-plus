@@ -3,7 +3,7 @@ A Python GUI based game made with Tkinter. Incorporates a fast-solving algorithm
 
 ## Installation
 
-To install and run Sudoku-Plus, follow these steps:
+To install and run sudoku-plus, follow these steps:
 1. Clone the repository:
    git clone https://github.com/Dennis-Shlaih/sudoku-plus.git
 2. Navigate to the project directory:
