@@ -13,4 +13,8 @@ To install and run sudoku-plus, follow these steps:
 4. Run the game:
    python main.py
 
+## Contributing
+
+Contributions are acceptable! If you have any suggestions, please create a pull request or open an issue.
+
 
